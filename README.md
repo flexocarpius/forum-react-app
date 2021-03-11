@@ -1,6 +1,6 @@
 # [Forum React App](https://forum-react-app.vercel.app/)
 
-![Forum React App](https://user-images.githubusercontent.com/47753684/110839402-5afa0600-8258-11eb-89e4-122bb08e3a16.jpg)
+![Forum React App](https://user-images.githubusercontent.com/47753684/110840398-86312500-8259-11eb-9e24-2734b737e8bd.jpg)
 
 This project was made using React for the front-end and Python/Django for the backend. It uses GraphQL internally.
 
